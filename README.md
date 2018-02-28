@@ -1,0 +1,1 @@
+# swarmprom-grafana-w-plugins
